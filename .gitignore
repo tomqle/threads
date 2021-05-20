@@ -1,0 +1,15 @@
+# database #
+*.sqlite
+*.sqlite3
+
+# pycache #
+**/__pycache__
+
+# venv #
+env
+
+# vscode #
+.vscode
+
+# node #
+**/node_modules

@@ -1,0 +1,9 @@
+#root {
+  background-color:aliceblue;
+}
+
+.nav-link {
+  color: black;
+  border: 1px solid black;
+  padding: 1em;
+}
